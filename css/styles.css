@@ -19,6 +19,15 @@ body{
     font-size: 16px;
     letter-spacing: 0.02em;
 }
+
+ul li a :hover, 
+ul li a :focus,
+.contacts-link:hover,
+.contacts-link:focus,
+.body-medium:hover,
+.body-medium:focus {
+    color:#404bbf;
+}
 ul, li{
     list-style-type: none;
 }
